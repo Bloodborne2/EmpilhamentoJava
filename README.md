@@ -5,8 +5,11 @@ Este repositório contém implementações da estrutura de dados Pilha (Stack) e
 O projeto inclui diferentes implementações de pilha, explorando conceitos essenciais como:
 
 📌 Implementação de Pilha → Estruturação da pilha usando arrays ou listas encadeadas.
+
 📌 Operações Básicas → Métodos para push(), pop(), peek() e verificação se a pilha está vazia.
+
 📌 Tratamento de Erros → Controle de exceções ao tentar desempilhar elementos de uma pilha vazia.
+
 📌 Aplicações Práticas → Exemplos de uso da pilha em problemas reais.
 
 🛠 Tecnologias Utilizadas
